@@ -1,0 +1,2 @@
+C:\Users\aluno\Documents\FilazeroConsole\bin\Debug\net10.0\FilazeroConsole.exe
+C:\Users\aluno\Documents\FilazeroConsole\bin\Debug\net10.0\FilazeroConsole.dll
